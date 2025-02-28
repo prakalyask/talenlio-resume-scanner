@@ -9,7 +9,7 @@
 </p>
 <h2>Features ✨</h2>
 <ul>
-        <li><strong>User Management:</strong> Registration, login, logout, and profile viewing.</li>
+        <li><strong>User Management:</strong> Registration, login, logout, and profile viewing and passwords are saved using SHA256 hash format.</li>
         <li><strong>Credit System:</strong> Daily credit reset (20 credits/day) with options for credit requests.</li>
         <li><strong>Document Scanning:</strong> Upload and scan documents with credit deduction.</li>
         <li><strong>Soft Delete & Hard Delete:</strong> Support for soft deletion (marking as deleted) and hard deletion (permanent removal) of records.</li>

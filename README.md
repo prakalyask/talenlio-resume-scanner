@@ -26,7 +26,7 @@
 <h2>Setup Instructions 🔧</h2>
 <h3>1. Clone the Repository</h3>
 <pre><code>
-git clone &lt;repository-url&gt;
+git clone https://github.com/prakalyask/talenlio-resume-scanner.git
 cd backend
 </code></pre>
 <h3>2. Set Up Virtual Environment 🛠️</h3>
